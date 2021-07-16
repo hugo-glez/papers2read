@@ -13,7 +13,7 @@
 	- Wang Xiaojuan, Kaiwenlv Kacuila, He Mingshu
 	- [link](https://link.springer.com/chapter/10.1007/978-3-030-78612-0_24)
 
-- ### ![Paper](imgs/papergit a.png) KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization
+- ### ![Paper](imgs/paper.png) KronoDroid: Time-based Hybrid-featured Dataset for Effective Android Malware Detection and Characterization
 	- ![Tags](imgs/tags.png) Android, malware, dataset
 	- Alejandro Guerra-Manzanares, Hayretdin Bahsi, Sven Nõmm
 	- [link](https://www.sciencedirect.com/science/article/pii/S0167404821002236)
@@ -21,9 +21,10 @@
 - ### ![Paper](imgs/paper.png) SCRUTINIZER: Detecting Code Reuse in Malware via Decompilation and Machine Learning
 	- ![Tags](imgs/tags.png) malware, ML
 	- A Kharraz, in proceedings of DIMVA 2021
+	- [link] (https://0m1d.com/assets/pdf/C7.pdf)
 
 
-- ### ![Paper](imgs/paper.png) Title
-	- ![Tags](imgs/tags.png) Tags
+- ### ![Paper](imgs/paper1.png) Title
+	- ![Tags](imgs/tags1.png) Tags
 	- authors
 	- [link]()
