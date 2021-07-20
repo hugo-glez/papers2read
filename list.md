@@ -23,18 +23,33 @@
 	- A Kharraz, in proceedings of DIMVA 2021
 	- [link] (https://0m1d.com/assets/pdf/C7.pdf)
 
-
 - ### ![ACM](imgs/acm.png) A Survey on Windows-based Ransomware Taxonomy and Detection Mechanisms
-	- ![Tags](imgs/tags1.png) malware, ransomware
+	- ![Tags](imgs/tags.png) malware, ransomware
 	-  Routa Moussaileb, Nora Cuppens, Jean-Louis Lanet
 	- [link](https://dl.acm.org/doi/abs/10.1145/3453153)
 
 - ### ![Paper](imgs/paper.png) Repo2Vec: A Comprehensive Embedding Approach for Determining Repository Similarity
-	- ![Tags](imgs/tags1.png) ML, embedding, similarity
+	- ![Tags](imgs/tags.png) ML, embedding, similarity
 	- MOF Rokon, P Yan, R Islam, M Faloutsos
 	- [link](https://arxiv.org/pdf/2107.05112.pdf)
 
-- ### ![Paper](imgs/paper1.png) Title
-	- ![Tags](imgs/tags1.png) Tags
-	- authors
-	- [link]()
+- ### ![ACM](imgs/acm.png) Large-scale and Robust Code Authorship Identification with Deep Feature Learning
+	- ![Tags](imgs/tags.png) authorship attribution, deep learning
+	- Mohammed Abuhamad, Tamer Abuhmed, David Mohaisen, Daehun Nyang 
+	- [link](https://dl.acm.org/doi/abs/10.1145/3461666)
+
+- ### ![ACM](imgs/acm.png) Large-Scale and Language-Oblivious Code Authorship Identification
+	- ![Tags](imgs/tags.png) authorship attribution, deep learning
+	- Mohammed Abuhamad, Tamer Abuhmed, Aziz Mohaisen, Daehun Nyang 
+	- [link](https://dl.acm.org/doi/10.1145/3243734.3243738)
+
+- ### ![Paper](imgs/paper.png) DL-FHMC: Deep Learning-based Fine-grained Hierarchical Learning Approach for Robust Malware Classification
+	- ![Tags](imgs/tags.png) Deep leraning, malware
+	- Ahmed Abusnaina; Mohammed Abuhamad; Hisham Alasmary; Afsah Anwar et al.
+	- [link](https://ieeexplore.ieee.org/abstract/document/9484718)
+
+- ### ![Paper](imgs/paper.png) Android Malware Detection using Function Call Graph with Graph Convolutional Networks
+	- ![Tags](imgs/tags.png) Deep leraning, android, malware
+	- Vinayaka K V; Jaidhar C D
+	- [link](https://ieeexplore.ieee.org/abstract/document/9478141)
+
