@@ -53,3 +53,7 @@
 	- Vinayaka K V; Jaidhar C D
 	- [link](https://ieeexplore.ieee.org/abstract/document/9478141)
 
+- ### ![Paper](imgs/paper.png)Firefly algorithm based feature selection for network intrusion detection
+	- ![Tags](imgs/tags.png) IDS, feature selection, ML, fireflies
+	- Selvakumar B, Muneeswaran K
+	- [link](https://www.sciencedirect.com/science/article/pii/S0167404818303936)
