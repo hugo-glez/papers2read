@@ -57,3 +57,19 @@
 	- ![Tags](imgs/tags.png) IDS, feature selection, ML, fireflies
 	- Selvakumar B, Muneeswaran K
 	- [link](https://www.sciencedirect.com/science/article/pii/S0167404818303936)
+
+- ### ![Book](imgs/book.png) Foundations of Blockchain
+	- ![Tags](imgs/tags.png) Blockchain, IoT
+	- Ahmed Imteaj, M. Hadi Amini, Panos M. Pardalos
+	- [link](https://link.springer.com/book/10.1007/978-3-030-75025-1)
+
+- ### ![ACM](imgs/acm.png) Text Mining in Cybersecurity: A Systematic Literature Review
+	- ![Tags](imgs/tags.png) survey, cybersecurity, ML
+	- Luciano Ignaczak, Guilherme Goldschmidt, Cristiano André Da Costa, Rodrigo Da Rosa Righi 
+	- [link](https://dl.acm.org/doi/abs/10.1145/3462477)
+	
+- ### ![Chapter](imgs/chapter.png) Techniques in IoT Applications: A State of The Art
+	- ![Tags](imgs/tags.png) IoT
+	- Shaw, L., Sahoo, R. N., Hemachandran, K., & Nanda, S. K.
+	- [link](https://www.routledge.com/IoT-Applications-Security-Threats-and-Countermeasures/Nayak-Ray-Ravichandran/p/book/9781003124252)	
+	
