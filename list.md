@@ -73,3 +73,8 @@
 	- Shaw, L., Sahoo, R. N., Hemachandran, K., & Nanda, S. K.
 	- [link](https://www.routledge.com/IoT-Applications-Security-Threats-and-Countermeasures/Nayak-Ray-Ravichandran/p/book/9781003124252)	
 	
+- ### ![Paper](imgs/paper.png)PDF Malware Detection Using Visualization and Machine Learning
+	- ![Tags](imgs/tags.png) malware, pdf, ML
+	- Ching-Yuan Liu, Min-Yi Chiu, Qi-Xian Huang, Hung-Min Sun
+	- [link](https://link.springer.com/chapter/10.1007/978-3-030-81242-3_12)
+
