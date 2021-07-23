@@ -78,3 +78,12 @@
 	- Ching-Yuan Liu, Min-Yi Chiu, Qi-Xian Huang, Hung-Min Sun
 	- [link](https://link.springer.com/chapter/10.1007/978-3-030-81242-3_12)
 
+- ### ![ACM](imgs/acm.png) A Survey of Parametric Static Analysis
+	- ![Tags](imgs/tags.png) survey, static analysis, program verification
+	-  Jihyeok Park, Hongki Lee, Sukyoung Ryu 
+	- [link](https://dl.acm.org/doi/abs/10.1145/3464457)
+
+- ### ![ACM](imgs/acm.png) A Comparative Study of AI-Based Intrusion Detection Techniques in Critical Infrastructures
+	- ![Tags](imgs/tags.png) IDS, AI, cybersecurity
+	-  Safa Otoum, Burak Kantarci, Hussein Mouftah 
+	- [link](https://dl.acm.org/doi/abs/10.1145/3406093)
